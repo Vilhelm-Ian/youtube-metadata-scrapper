@@ -1,0 +1,11 @@
+{
+  "name": "youtube_scraper",
+  "version": "1.0.0",
+  "description": "get the tags, video title, top 30 comments, number of views, description of videos above 1 million views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
